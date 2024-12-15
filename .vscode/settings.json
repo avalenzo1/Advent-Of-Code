@@ -8,6 +8,15 @@
         "queue": "cpp",
         "vector": "cpp",
         "ratio": "cpp",
-        "istream": "cpp"
+        "istream": "cpp",
+        "regex": "cpp",
+        "__split_buffer": "cpp",
+        "deque": "cpp",
+        "string": "cpp",
+        "array": "cpp",
+        "string_view": "cpp",
+        "map": "cpp",
+        "bitset": "cpp",
+        "unordered_map": "cpp"
     }
 }
