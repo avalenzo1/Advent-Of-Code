@@ -111,5 +111,8 @@ int main()
 
     cout << safeCount << endl;
 
+    file.close();
+
+
     return 0;
 }

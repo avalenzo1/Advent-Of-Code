@@ -45,4 +45,7 @@ int main()
     }
 
     cout << "Similarity score: " << score << endl;
+
+    file.close();
+
 }

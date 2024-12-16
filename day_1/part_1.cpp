@@ -32,4 +32,6 @@ int main()
     }
 
     cout << "Distance Sum: " << sum << endl;
+
+    file.close();
 }

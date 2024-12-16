@@ -109,5 +109,7 @@ int main()
 
     cout << "Total: " << total << endl;
 
+    file.close();
+
     return 0;
 }

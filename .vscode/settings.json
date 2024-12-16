@@ -18,6 +18,7 @@
         "map": "cpp",
         "bitset": "cpp",
         "unordered_map": "cpp",
-        "cstddef": "cpp"
+        "cstddef": "cpp",
+        "fstream": "cpp"
     }
 }
