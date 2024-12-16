@@ -17,6 +17,7 @@
         "string_view": "cpp",
         "map": "cpp",
         "bitset": "cpp",
-        "unordered_map": "cpp"
+        "unordered_map": "cpp",
+        "cstddef": "cpp"
     }
 }
